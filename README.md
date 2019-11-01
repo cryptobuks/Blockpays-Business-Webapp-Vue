@@ -1,3 +1,0 @@
-# blockpPayBusiness
-
-block pay business
